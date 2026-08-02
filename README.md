@@ -2,7 +2,7 @@
 
 Unofficial machine-readable mirrors of official payment & fintech documentation, converted to plain Markdown for **LLM agents, RAG pipelines, and knowledge graphs**. Mirrored and maintained with [`llms-mirror`](https://github.com/naelrudd/llms-mirror).
 
-Every repo ships the same artifact set:
+Every repo ships the same artifact set, mirrored and maintained with [`llms-mirror`](https://github.com/naelrudd/llms-mirror) ([PyPI](https://pypi.org/project/llms-mirror/)):
 
 | Artifact | Purpose |
 |---|---|
@@ -17,11 +17,12 @@ Every repo ships the same artifact set:
 | Docs | Pages | llms-full | Repo |
 |---|---|---|---|
 | Clerk | 2343 | 26.6 MB | [clerk-docs-llm-agents](https://github.com/naelrudd/clerk-docs-llm-agents) |
+| Razorpay | 2237 | 21.2 MB | [razorpay-docs-llm-agents](https://github.com/naelrudd/razorpay-docs-llm-agents) |
 | Stripe | 473 | 11.5 MB | [stripe-docs-llm-agents](https://github.com/naelrudd/stripe-docs-llm-agents) |
 | Canva Developers | 392 | 2.1 MB | [canva-docs](https://github.com/naelrudd/canva-docs) |
 | Midtrans | 589 | 4.1 MB | [midtrans-docs-llm-agents](https://github.com/naelrudd/midtrans-docs-llm-agents) |
 | Xendit | 336 | 5.2 MB | [xendit-docs-llm-agents](https://github.com/naelrudd/xendit-docs-llm-agents) |
-| **Total** | **4133** | **49.5 MB** | |
+| **Total** | **6370** | **70.7 MB** | |
 
 ## Quick start
 
@@ -44,6 +45,7 @@ llms-mirror mirror https://docs.example.com/llms.txt --out example-docs
 
 ## What's inside
 
+- **Razorpay**: Payment Gateway, payment pages, subscriptions, Route, Smart Collect, Payouts, BBPS, UPI, webhooks, security, MCP server.
 - **Stripe**: Payments, Checkout, Billing, Connect, Identity, financial products, full API reference (test keys redacted).
 - **Clerk**: auth, user management, frontend/backend SDKs, webhooks, email/sms.
 - **Canva**: Connect API, Design APIs, Extensions, App SDK, Print API.
