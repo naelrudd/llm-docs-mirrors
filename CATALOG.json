@@ -1,0 +1,47 @@
+{
+  "generated": "2026-08-02T20:38:17Z",
+  "total_pages": 5987,
+  "total_bytes": 68617850,
+  "mirrors": [
+    {
+      "name": "clerk-docs-llm-agents",
+      "repo": "https://github.com/naelrudd/clerk-docs-llm-agents",
+      "source": "https://clerk.com/docs/llms.txt",
+      "pages": 2343,
+      "bytes": 26580462,
+      "last_sync": "2026-08-02T16:13:19+07:00"
+    },
+    {
+      "name": "midtrans-docs-llm-agents",
+      "repo": "https://github.com/naelrudd/midtrans-docs-llm-agents",
+      "source": "https://docs.midtrans.com/llms.txt",
+      "pages": 589,
+      "bytes": 4052575,
+      "last_sync": "2026-08-02T16:13:17+07:00"
+    },
+    {
+      "name": "razorpay-docs-llm-agents",
+      "repo": "https://github.com/naelrudd/razorpay-docs-llm-agents",
+      "source": "https://razorpay.com/docs/llms.txt",
+      "pages": 2237,
+      "bytes": 21230469,
+      "last_sync": "2026-08-02T17:06:44+07:00"
+    },
+    {
+      "name": "stripe-docs-llm-agents",
+      "repo": "https://github.com/naelrudd/stripe-docs-llm-agents",
+      "source": "https://docs.stripe.com/llms.txt",
+      "pages": 482,
+      "bytes": 11536373,
+      "last_sync": "2026-08-02T16:13:24+07:00"
+    },
+    {
+      "name": "xendit-docs-llm-agents",
+      "repo": "https://github.com/naelrudd/xendit-docs-llm-agents",
+      "source": "https://docs.xendit.co/llms.txt",
+      "pages": 336,
+      "bytes": 5217971,
+      "last_sync": "2026-08-02T16:13:22+07:00"
+    }
+  ]
+}
